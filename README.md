@@ -25,4 +25,9 @@ else:
 
 Fonte: [Resolução TSE nº 23.610/2019, art. 29, com alterações posteriores](https://www.tse.jus.br/legislacao/compilada/res/2019/resolucao-no-23-610-de-18-de-dezembro-de-2019).
 
+## Executar o exemplo
+
+Com Python 3 instalado, rode `python exemplo.py`. O arquivo usa apenas dados fictícios e inclui verificações simples com `assert`. Ele não substitui a análise jurídica nem executa ações externas.
+
+
 *Exemplo didático. O código não libera automaticamente nenhum anúncio.*
